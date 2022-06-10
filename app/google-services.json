@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751209578854",
+    "project_id": "lusay-1a254",
+    "storage_bucket": "lusay-1a254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751209578854:android:3f3abd7dd7309fbede88a7",
+        "android_client_info": {
+          "package_name": "com.example.lusay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751209578854-bmu6ektcdtu3o59d11kjep4l850s9kqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfW0TY6A7NHQGev3-5aajZUH_muXDfO7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751209578854-bmu6ektcdtu3o59d11kjep4l850s9kqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
